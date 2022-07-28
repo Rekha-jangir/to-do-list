@@ -1,0 +1,42 @@
+body{
+    background-image:url('3.jpg');
+    background-size:cover;
+    /* background-position: center; */
+}
+div{
+    text-align: center;
+    margin-top: 15%;
+    border: solid rgb(230, 142, 174);
+    border-style:dashed;
+    margin-left: 20%;
+    margin-right: 25%;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+ 
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(41, 106, 163);
+    text-align: center;
+    text-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(143, 138, 170);
+    text-align: center;
+}
+button{
+    text-align: center;
+    
+    background-color: white;
+    border: none;
+    display:inline-block;
+    font-size: larger;
+    padding: 15px 32px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+button:hover{
+    background: #d02477;
+}
+

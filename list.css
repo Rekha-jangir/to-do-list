@@ -1,0 +1,38 @@
+body{
+    background-image: url('./bg1.jpg');
+    background-size: cover;
+}
+.box{
+        margin-left: 50%;
+        margin-top: 10%;
+        background-color: white;
+        padding-bottom: 20%;
+        padding-left: 10%;
+}
+.box h1{
+    text-align: center;
+    position: fox;
+}
+button{
+    text-align: center;
+    
+    background-color: rgb(52, 110, 137);
+    border: none;
+    display:inline-block;
+    font-size: larger;
+    padding: 15px 32px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+button:hover{
+    background: #d02477;
+
+}
+
+.box input{
+    
+    height: 30px;
+    border: none;
+    padding-left: 40px;
+    
+}
